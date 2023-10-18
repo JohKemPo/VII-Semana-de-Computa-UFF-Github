@@ -12,6 +12,7 @@
 
 - [Guia prático de git e github](https://github.com/JohKemPo/Github-Guide)
 - [Guia prático de Markdown](https://github.com/JohKemPo/Github-Guide/blob/main/Markdown%20.md)
+- [Respostas cases práticos](https://github.com/JohKemPo/VII-Semana-de-Computa-UFF-Github-Respostas)
 
 
 <br>
