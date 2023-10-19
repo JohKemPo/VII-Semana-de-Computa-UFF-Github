@@ -1,4 +1,5 @@
 def main():
+    #teste
     contats = []
     while 1:
         menu = int(input("1 para adicionar contatos \n 2 para buscar entre seus contatos \n 3 para deletar um contatos \n 4 para mostrar sua lista de contatos\n"))
