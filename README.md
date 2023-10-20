@@ -14,7 +14,7 @@
 - [Guia prático de Markdown](https://github.com/JohKemPo/Github-Guide/blob/main/Markdown%20.md)
 - [Guia prático de Customização de readme [EM BREVE - EM DESENVOLVIMENTO]](https://github.com/JohKemPo/README-Custom)
 - [Respostas cases práticos](https://github.com/JohKemPo/VII-Semana-de-Computa-UFF-Github-Respostas)
-
+- [Apresentação - Slide](https://www.canva.com/design/DAFxhcBu0ho/kGtz_LFbbKMeVqJRFekcBA/edit?utm_content=DAFxhcBu0ho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
 
